@@ -70,14 +70,14 @@ Modify the path in Cell 3 to match your local structure.
 ## Key Results (Reproduced from Notebook)
 
 - **Base MLP**:
-  - KDD Cup 1999: 99.96% accuracy, 0.0000% FPR, 0.099 ms latency
-  - CIC-DDoS2019: 94.94% accuracy, 0.098 ms latency
-  - Edge-IIoTset: 97.27% accuracy, perfect recall (0.00% FNR), 0.127 ms latency
+  KDD Cup 1999: 99.96% accuracy, 0.0000% FPR, 0.099 ms latency
+  CIC-DDoS2019: 94.94% accuracy, 0.098 ms latency
+  Edge-IIoTset: 97.27% accuracy, perfect recall (0.00% FNR), 0.127 ms latency
 
 - **Hybrid Transfer CNN (Novel Contribution)**:
-  - KDD Cup 1999: 88.30% accuracy
-  - CIC-DDoS2019: 95.08% accuracy
-  - Edge-IIoTset: **99.86% accuracy**, 99.78% F1-score, 0.573 ms latency
+  KDD Cup 1999: 88.30% accuracy
+  CIC-DDoS2019: 95.08% accuracy
+  Edge-IIoTset: **99.86% accuracy**, 99.78% F1-score, 0.573 ms latency
 
 - Single-threaded throughput: 7,723–9,928 p/s
 - Peak memory: < 350 MB
