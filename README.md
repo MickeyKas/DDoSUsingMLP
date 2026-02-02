@@ -56,8 +56,8 @@ Modify the path in Cell 3 to match your local structure.
    ```
 
 4. Run the notebook
-   - Open `notebook.ipynb` in Jupyter Notebook/Lab or VS Code.
-   - Execute all cells sequentially.
+    - Open `notebook.ipynb` in Jupyter Notebook/Lab or VS Code.
+    - Execute all cells sequentially.
 
    The notebook automatically:
    - Loads and preprocesses the three datasets (memory-safe, realistic 30% attack ratio where applicable)
