@@ -56,16 +56,16 @@ Modify the path in Cell 3 to match your local structure.
    ```
 
 4. Run the notebook
-    - Open `notebook.ipynb` in Jupyter Notebook/Lab or VS Code.
-    - Execute all cells sequentially.
+   Open `notebook.ipynb` in Jupyter Notebook/Lab or VS Code.
+   Execute all cells sequentially.
 
    The notebook automatically:
-   - Loads and preprocesses the three datasets (memory-safe, realistic 30% attack ratio where applicable)
-   - Trains the lightweight MLP detector (with dataset-specific regularization for Edge-IIoTset)
-   - **Implements sequential transfer learning with hybrid CNN for enhanced performance**
-   - Evaluates performance and computes all metrics
-   - Generates high-resolution visualizations
-   - Saves trained models and scalers
+   Loads and preprocesses the three datasets (memory-safe, realistic 30% attack ratio where applicable)
+   Trains the lightweight MLP detector (with dataset-specific regularization for Edge-IIoTset)
+   **Implements sequential transfer learning with hybrid CNN for enhanced performance**
+   Evaluates performance and computes all metrics
+   Generates high-resolution visualizations
+   Saves trained models and scalers
 
 ## Key Results (Reproduced from Notebook)
 
