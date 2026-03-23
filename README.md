@@ -1,6 +1,7 @@
 
 ```markdown
-# Real-Time DDoS Detection on CPU-Only Edge Gateways Using an Ultra-Lightweight MLP
+# Edge-Optimized Deep and Transfer Learning for Efficient DDoS
+Detection in IIoT Networks
 
 **High-resolution performance visualization**
 
@@ -92,8 +93,9 @@ The serialized models (`.pkl`) and scalers can be loaded with `joblib` for infer
 If you use this code or results in your work, please cite:
 ```bibtex
 @article{alemayehu2026lightweight,
-  title={Lightweight Real-Time DDoS Attack Detection in IIoT and Edge Gateways},
-  author={Mikiyas Alemayehu and Mohamed Chahine Ghanem and Hamza Kheddar and Marcio Lacerda and Dipo Dunsin},
+  title={Edge-Optimized Deep and Transfer Learning for Efficient DDoS
+Detection in IIoT Networks},
+  author={Mikiyas Alemayehu and Mohamed Chahine Ghanem},
   year={2026}
 }
 ```
